@@ -3,27 +3,145 @@
     "Worship": {
       "Tawheed and Shirk": [
         {
+          "id": 1,
+          "question": "What is the greatest worship?",
+          "question_type": "multiple-choice",
           "answers": [
             "the prayer",
             "Zakat",
-            "unification. -- Tawheed"
+            "unification. -- Tawheed",
+            "charity"
           ],
           "correct_answer": "unification. -- Tawheed",
-          "id": 1,
-          "month": "null",
-          "question": "What is the greatest worship?",
-          "question_type": "multiple-choice"
+          "month": "null"
         },
         {
           "id": 2,
           "question": "What is the ruling on turning away from the religion of Allah, the Almighty, in knowledge and practice?",
-          "question_type": "fill-in-the-blanks",
+          "question_type": "multiple-choice",
           "answers": [
             "ignorant",
-            "K.F.R because he committed a nullifier of Islam",
-            "a stubborn hypocrite"
+            "KUFR because he committed a nullifier of Islam",
+            "a stubborn hypocrite",
+            "wrongdoer"
           ],
-          "correct_answer": "K.F.R because he committed a nullifier of Islam",
+          "correct_answer": "KUFR because he committed a nullifier of Islam",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "At-Taghut is inclusive of all that is worshipped other than Allah true or false.",
+          "question_type": "True Or False",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correct_answer": "True",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "The following nullifies one's Tawheed except.",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Whoever mocks something from the din of the Messenger or the rewards of Allah or His punishment",
+            "Whoever places between him and Allah intermediaries",
+            "Aiding and supporting the mushrikin against the Muslimin",
+            "Whoever Prays without Wudū'"
+          ],
+          "correct_answer": "Whoever Prays without Wudū",
+          "month": "null"
+        },
+        {
+          "id": 5,
+          "question": "Tawheed has ____ number of conditions",
+          "question_type": "fill-in-the-blanks",
+          "answers": [
+            "5",
+            "7",
+            "10",
+            "2"
+          ],
+          "correct_answer": "7",
+          "month": "null"
+        },
+        {
+          "id": 6,
+          "question": "Which one of the folowing in not a condition of Tawheed?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Al-i’lm (Knowledge)",
+            "Al-Mahabba (Love)",
+            "Al-Yaqeen (Certainty)",
+            "As-Sidq (Truthfulness)",
+            "None of the above"
+          ],
+          "correct_answer": "None of the above",
+          "month": "null"
+        },
+        {
+          "id": 7,
+          "question": "There are only Two Pillars of Tawheed true of false",
+          "question_type": "True Or False",
+          "answers": [
+            "True",
+            "False"
+          ],
+          "correct_answer": "True",
+          "month": "null"
+        },
+        {
+          "id": 8,
+          "question": "The Tawaghit are many and their heads are five except?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The oppressive ruler who changes the laws of Allah(swt)",
+            "The one who claims knowledge of the unseen",
+            "The one who is worshipped and pleased with it",
+            "The one who does not govern by what Allah(swt) has revealed",
+            "Satan who invites people to worship other than Allah (swt)",
+            "Jesus, peace be upon him"
+          ],
+          "correct_answer": "Jesus, peace be upon him",
+          "month": "null"
+        },
+        {
+          "id": 9,
+          "question": "The following are steps required in rejection of Taghut, which one is not?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "To show Hatred",
+            "Avoid worshipping Taghut",
+            "Al-i'lm (Knowledge)"
+          ],
+          "correct_answer": "Al-i'lm (knowledge)",
+          "month": "null"
+        },
+        {
+          "id": 10,
+          "question": "To be a monotheist, one should know divine rights of Allah(swt). Which of the following is not?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "All the acts that are specific to Allah(swt) alone which no-one should ascribe to other than Allah(swt)",
+            "All the powers of Allah(swt) that controls the entire universe",
+            "All the acts of worship that should be directed to Him Alone",
+            "All the names and attributes,which no one should ascribe to other than Allah(swt)",
+            "None of the above"
+          ],
+          "correct_answer": "None of the above",
+          "month": "null"
+        },
+        {
+          "id": 11,
+          "question": "The following nullifies one's Tawheed except",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Whoever mocks something from the din of the Messenger or the rewards of Allah or His punishment",
+            "Whoever places between him and Allah intermediaries",
+            "Aiding and supporting the mushrikin against the Muslimin",
+            "Whoever Prays without Wudū'"
+          ],
+          "correct_answer": "Whoever Prays without Wudū'",
           "month": "null"
         }
       ],
@@ -58,9 +176,9 @@
     "The Qur'an": {
       "Prophets & Messengers": [
         {
-          "id": 0,
+          "id": 1,
           "question": "Who is the prophet who is mentioned the most in the Qur'an?",
-          "question_type": "fill-in-the-blanks",
+          "question_type": "multiple-choice",
           "answers": [
             "Jesus, peace be upon him",
             "Abraham, peace be upon him",
@@ -71,16 +189,16 @@
           "month": "null"
         },
         {
-          "id": 1,
+          "id": 2,
           "question": "What is the name of the surah that you read equals one-third of the Qur’an?",
           "question_type": "fill-in-the-blanks",
           "answers": [
-            "the dam",
-            "sincerity",
-            "the unbelievers",
-            "the earthquake"
+            "Surah Al-Mulk",
+            "Suratul Yaseen",
+            "Surah Al-Falaq",
+            "Surah Al-Ikhlas"
           ],
-          "correct_answer": "sincerity",
+          "correct_answer": "Sura Al-Ikhlas",
           "month": "null"
         },
         {
@@ -99,7 +217,7 @@
       ],
       "Books of Allah": [
         {
-          "id": 31,
+          "id": 1,
           "question": "What is the surah in which the basmalah was mentioned twice?",
           "question_type": "multiple-choice",
           "answers": [
@@ -112,16 +230,896 @@
           "month": "null"
         },
         {
-          "id": 32,
+          "id": 2,
           "question": "In which surah is the story of Taloot and Goliath mentioned?",
           "question_type": "multiple-choice",
           "answers": [
-            "the norms",
-            "the table",
-            "the cow",
-            "poets"
+            "The Norms",
+            "The Table",
+            "The Cow",
+            "The Poets"
           ],
-          "correct_answer": "Surat Al-Naml",
+          "correct_answer": "The Cow",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "The last bow (Sajdah) of the Holy Qur’ān is in which Sūrah? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Surah an-Najm (The Star)",
+            "Surah al-Inshiqaq (The Splitting)",
+            "Surah al-'Alaq (The Clinging Substance)",
+            "Suurah as-Sajdah (The Prostration)"
+          ],
+          "correct_answer": "Surah al-Inshiqaq (The Splitting)",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "How many Sūrah’s name is only one letter? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Three",
+            "Two",
+            "Five",
+            "Four"
+          ],
+          "correct_answer": "Three",
+          "month": "null"
+        },
+        {
+          "id": 5,
+          "question": "How many Sūrah of the Qur’ān Start with Al-Hamdulillah (الحمد لله) ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Three",
+            "Six",
+            "Seven",
+            "Four"
+          ],
+          "correct_answer": "Four",
+          "month": "null"
+        },
+        {
+          "id": 6,
+          "question": "Mention the names of the Books of Allah",
+          "question_type": "multiple-choice",
+          "answers": [
+            "1.Taurat   2.Kutubu 3.Injeel   4.The Qur’an",
+            "1.Taurat   2.Zaboor 3.Lah      4.The Qur’an",
+            "1.Taurat   2.Zaboor 3.Injeel   4.The Qur’ān",
+            "1.Taurat   2.Zaboor 3.Injeel   4.Kitab"
+          ],
+          "correct_answer": "1.Taurat   2.Zaboor 3.Injeel   4.The Qur’ān",
+          "month": "null"
+        },
+        {
+          "id": 7,
+          "question": "What is the name of Prophet to whom Taurat was revealed?  ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Prophet Musa",
+            "Prophet Isa",
+            "Prophet Daud",
+            "Prophet Ibrahim"
+          ],
+          "correct_answer": "Prophet Musa",
+          "month": "null"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of Prophet to whom Zaboor was revealed? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Prophet Musa",
+            "Prophet Isa",
+            "Prophet Daud",
+            "Prophet Ibrahim"
+          ],
+          "correct_answer": "Prophet Daud",
+          "month": "null"
+        },
+        {
+          "id": 9,
+          "question": "What is the name of Prophet to whom Injeel was revealed? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Prophet Musa",
+            "Prophet Isa",
+            "Prophet Daud",
+            "Prophet Ibrahim"
+          ],
+          "correct_answer": "Prophet Isa",
+          "month": "null"
+        },
+        {
+          "id": 10,
+          "question": "In which Sūrah Bismillah Ar-Rahmaneen Ar-Raheem (بسم الله الرحمن الرحيم) came twice? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Surah an-Naml (The Ant)",
+            "Surah al-Inshiqaq (The Splitting)",
+            "Surah al-'Alaq (The Clinging Substance",
+            "Suurah as-Sajdah (The Prostration)"
+          ],
+          "correct_answer": "Surah an-Naml (The Ant)",
+          "month": "null"
+        },
+        {
+          "id": 11,
+          "question": "What is the name of cave where revelation of Holy Qur’an started?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The Cave of Burūj",
+            "The Cave of Judah",
+            "The Cave of Kahf",
+            "The Cave of Hira"
+          ],
+          "correct_answer": "The Cave of Hira",
+          "month": "null"
+        },
+        {
+          "id": 12,
+          "question": "According to Sūrah Al-'Asr, Most man is surely in loss, except those: ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "They who are during their prayer humbly submissive",
+            "Who pray five time a day",
+            "They who carefully maintain their prayers",
+            "Who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+          ],
+          "correct_answer": "Who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "month": "null"
+        },
+        {
+          "id": 13,
+          "question": " Which Sūrah is on the name of one metal? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah Al-Qamar",
+            "Sūrah Al-Hadeed",
+            "Sūrah Al-An’ām",
+            "Sūrah Al-Ahqāf"
+          ],
+          "correct_answer": "Sūrah Al-Hadeed",
+          "month": "null"
+        },
+        {
+          "id": 14,
+          "question": " In which Sūrah the name of Allah is repeated in every verse",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah Al-Mujādilah",
+            "Sūrah Ar-Rahmān",
+            "Sūrah Al-Hajj",
+            "Sūrah Al-Layl"
+          ],
+          "correct_answer": "Sūrah Al-Mujādilah",
+          "month": "null"
+        },
+        {
+          "id": 15,
+          "question": " How many total Sūrahs of the Holy Qur’ān start with the word Ha-meem (حٰم)? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Eight",
+            "Six",
+            "Seven",
+            "Four"
+          ],
+          "correct_answer": "Six",
+          "month": "null"
+        },
+        {
+          "id": 16,
+          "question": " The story of the worship of cow of Bani Israeel mentioned in which Sūrah? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah An-Nahl",
+            "Sūrah Al-Baqarah",
+            "Sūrah An-Naml",
+            "Sūrah Al-An’ām"
+          ],
+          "correct_answer": "Sūrah Al-Baqarah",
+          "month": "null"
+        },
+        {
+          "id": 17,
+          "question": "How many Sūrahs of the Holy Qur’ān start with the word Alif-laam-Raa (الر)? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "2 Sūrahs",
+            "4 Sūrahs",
+            "5 Sūrahs",
+            "3 Sūrahs"
+          ],
+          "correct_answer": "4 Sūrahs",
+          "month": "null"
+        },
+        {
+          "id": 18,
+          "question": "Who has Allah mentioned in the Qur’ān as the best example to follow? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Prophet Muhammad (ﷺ)",
+            "Prophet (Isa) Jesus (عليه السالم)",
+            "Prophet (Musa) Moses (عليه السالم)",
+            "Angels"
+          ],
+          "correct_answer": "Prophet Muhammad (ﷺ)",
+          "month": "null"
+        },
+        {
+          "id": 19,
+          "question": "In which Sura the law of inheritance mentioned? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Surah an-Nisaa",
+            "Surah al-Inshiqaq (The Splitting)",
+            "Surah al-'Alaq (The Clinging Substance",
+            "Suurah as-Sajdah (The Prostration)"
+          ],
+          "correct_answer": "Surah an-Nisaa",
+          "month": "null"
+        },
+        {
+          "id": 20,
+          "question": "In which Sūrah of the Holly Qur’ān, Allah mentioned about Khidr? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah Al-Kahf (The Cave)",
+            "Sūrah Al-Qalam (The Pen)",
+            "Sūrah Al-Mu’minūn (The Believers)",
+            "Sūrah Az-Zumar (The Groups)"
+          ],
+          "correct_answer": "Sūrah Al-Kahf (The Cave)",
+          "month": "null"
+        },
+        {
+          "id": 21,
+          "question": "In which Sūrah the story of ‘The Sleepers of the Cave’ is mentioned? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah Al-Kahf (The Cave)",
+            "Sūrah Al-Qalam (The Pen)",
+            "Sūrah Al-Mu’minūn (The Believers)",
+            "Sūrah Az-Zumar (The Groups)"
+          ],
+          "correct_answer": "Sūrah Al-Kahf (The Cave)",
+          "month": "null"
+        }
+      ]
+    },
+    "Marriage": {
+      "Worship": [
+        {
+          "id": 1,
+          "question": "Who are mentioned as garments for one another in the Qur’ān?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Friends",
+            "Brothers",
+            "Relatives",
+            "Spouses"
+          ],
+          "correct_answer": "Spouses",
+          "month": "null"
+        },
+        {
+          "id": 2,
+          "question": "How should one treat and live with his wife, according to the Qur’ān? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "A man should treat his wife like a slave",
+            "A man should treat his wife like a stranger",
+            "A man should treat his wife with kindness and to live in equity",
+            "I dunno"
+          ],
+          "correct_answer": "A man should treat his wife with kindness and to live in equity",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "Is polygamy compulsory in Islām?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Polygamy is general",
+            "Polygamy is not a compulsion in Islām - it is an exception",
+            "Polygamy is not permitted in Islām",
+            "Polygamy is compulsory in Islām"
+          ],
+          "correct_answer": "Polygamy is not a compulsion in Islām - it is an exception",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "What did the prophet(ﷺ) mention about getting married? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Marriage will bring good luck",
+            "Marriage completes half of the religious obligations",
+            "Marriage is a bad omen",
+            "I dunno"
+          ],
+          "correct_answer": "Marriage completes half of the religious obligations",
+          "month": "null"
+        },
+        {
+          "id": 5,
+          "question": "Whom did Prophet Muhammad (ﷺ) mention as the best of men? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The best men are those who do not marry",
+            "The best men are those who have more wives",
+            "None of the men are considered best",
+            "The best among the men are those who are best to their wife"
+          ],
+          "correct_answer": "The best among the men are those who are best to their wife",
+          "month": "null"
+        },
+        {
+          "id": 6,
+          "question": "Is the marriage contract valid if a woman was on her menses?",
+          "question_type": "Yes or No",
+          "answers": [
+            "Yes",
+            "No"
+          ],
+          "correct_answer": "Yes",
+          "month": "null"
+        }
+      ]
+    },
+    "Prayer(Swalaah)": {
+      "Worship": [
+        {
+          "id": 1,
+          "question": " How many times a day we need to perform obligatory prayers? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Twice",
+            "Thrice",
+            "4 times",
+            "5 times"
+          ],
+          "correct_answer": "5 times",
+          "month": "null"
+        },
+        {
+          "id": 2,
+          "question": "What is Adhan ? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "A chapter in the Quran",
+            "Special Ayah",
+            "Call for Prayer",
+            "islamic poem"
+          ],
+          "correct_answer": "Call for Prayer",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "What do Muslims do to attain a state of purity before offering Salah (prayers)? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Recieting Attahyaatu",
+            "Performing Adhan",
+            "Performing Udhu",
+            "Bathing"
+          ],
+          "correct_answer": "Performing Udhu",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "When praying Witr in the three Rak'a's in the last Rak'ah it is Sunnah to recite? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah Al-A’lā (The Most High)",
+            "Sūrah Al-Ikhlās (The Sincerity), Sūrah  Al-Falaq (The Daybreak), Sūrah  An-Nās (Mankind)",
+            "Sūrah Al-Ikhlās (The Sincerity)",
+            "Sūrah Al-Fātihah (The Opening)"
+          ],
+          "correct_answer": "Sūrah Al-Ikhlās (The Sincerity)",
+          "month": "null"
+        }
+      ]
+    },
+    "Charity": {
+      "Worship": [
+        {
+          "id": 1,
+          "question": "What is the percentage of Obligatory Charity (Zakat) on Muslim?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "3.5%",
+            "1.5%",
+            "2.5%",
+            "4.5%"
+          ],
+          "correct_answer": "2.5%",
+          "month": "null"
+        }
+      ]
+    },
+    "Fast(Sawm)": {
+      "Worship": [
+        {
+          "id": 1,
+          "question": "In which Sūrah of the Holy Qur’ān Fasting of the month of Ramadan is enjoined ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Sūrah  Yūsuf (Joseph)",
+            "Sūrah  Al-Baqarah (The Cow)",
+            "Sūrah  Yā Seen (Ya Seen)",
+            "Sūrah  An-Nisā’ (The Women)"
+          ],
+          "correct_answer": "Sūrah  Al-Baqarah (The Cow)",
+          "month": "null"
+        }
+      ]
+    },
+    "Hajj(Pilgrimage)": {
+      "Worship": [
+        {
+          "id": 1,
+          "question": "For whom Hajj is compulsory ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The rich",
+            "The Poor",
+            "Both Poor & Poor",
+            "Every Muslim"
+          ],
+          "correct_answer": "The rich",
+          "month": "null"
+        },
+        {
+          "id": 2,
+          "question": "Hajj is not completed unless you go to? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Makkah",
+            "Madina",
+            "Mina",
+            "Arafat"
+          ],
+          "correct_answer": "Arafat",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "Muzdalifa is situated between",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Mina and Kaaba",
+            "Safa and Mina",
+            "Mina and Arafat",
+            "Makkah and Madina"
+          ],
+          "correct_answer": "Mina and Arafat",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "When Hajj was made compulsory? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "6 A.H",
+            "7 A.H",
+            "8 A.H",
+            "9 A.H"
+          ],
+          "correct_answer": "7 A.H",
+          "month": "null"
+        },
+        {
+          "id": 5,
+          "question": "Which direction is the Tawaf around the Ka'ba made?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Keep Ka'ba on your left and Walk around. (Anti Clockwise)",
+            "Keep Ka'ba at the centre while Walking around. (ClockTwise)",
+            "Keep Ka'ba on your right and Walk around. (Clockwise)",
+            "Not sure"
+          ],
+          "correct_answer": "Keep Ka'ba on your left and Walk around. (Anti Clockwise)",
+          "month": "null"
+        },
+        {
+          "id": 6,
+          "question": "What is the name of the place where the pilgrims pelt stones on pillars representing the devil?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Al-Jamarat",
+            "Mina",
+            "Muzdalifa",
+            "Al-Ka'abah"
+          ],
+          "correct_answer": "Al-Jamarat",
+          "month": "null"
+        },
+        {
+          "id": 7,
+          "question": "What is considered to be the most important part of the Hajj?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The day the pilgrims spend praying on the Plains of Arafah",
+            "Days spent in Mina and Muzdalifah",
+            "When pilgrims circumambulate the Kaabah",
+            "When pilgrims stone the Pillars representing the devil"
+          ],
+          "correct_answer": "The day the pilgrims spend praying on the Plains of Arafah",
+          "month": "null"
+        },
+        {
+          "id": 8,
+          "question": "What is the state of purity in which all pilgrims enter Makkah for Hajj called? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Istighfar",
+            "Istikhara",
+            "Adhaan",
+            "Ihram"
+          ],
+          "correct_answer": "Ihram",
+          "month": "null"
+        },
+        {
+          "id": 9,
+          "question": "What does the running or swift walking of pilgrims seven times between the hills of Safaa and Marwah represent? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The number of times the Prophet Muhammad performed the Hajj in his lifetime",
+            "The number of times the Prophet Abraham (عليه السالم) tried to build the Kaabah before he succeeded",
+            "The number of miles the Prophet Muhammad travelled from Medina to Mecca to perform the Hajj",
+            "The number of times Hajar ran back and forth between the hills searching for water for her son Ismai(عليه السالم)"
+          ],
+          "correct_answer": "The number of times Hajar ran back and forth between the hills searching for water for her son Ismai(عليه السالم)",
+          "month": "Dhul"
+        },
+        {
+          "id": 10,
+          "question": "The best Dua to say in the day of Arafah is________",
+          "question_type": "fill-in-the-blanks",
+          "answers": [
+            "Subhaanaallahi",
+            "La illaha-Allah wa dahu la shareeka lahu, lahu mulku wa lahu hamdu wa huwa, ala kuli shayin qadeer",
+            "La haw la wa laa quwwatta illaa billahi",
+            "Alhamdulillah"
+          ],
+          "correct_answer": "La illaha-Allah wa dahu la shareeka lahu, lahu mulku wa lahu hamdu wa huwa, ala kuli shayin qadeer",
+          "month": "null"
+        },
+        {
+          "id": 11,
+          "question": "Sa'i (Walking back and forth between Safa and Marwa) is an important part of Hajj and Umrah.  The act of worship was inspired by the action of",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Haajar (عليه السالم)",
+            "Ismaeel (عليه السالم)",
+            "Muhammad (ﷺ)",
+            "Ibrahim (عليه السالم)"
+          ],
+          "correct_answer": "Haajar (عليه السالم)",
+          "month": "null"
+        },
+        {
+          "id": 12,
+          "question": "How many times do the Muslims circumambulate (Tawaf) the Kaabah? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Seven Times only",
+            "Ten Times to make it complete",
+            "Three Times only",
+            "Five Times only"
+          ],
+          "correct_answer": "Seven Times only",
+          "month": "null"
+        },
+        {
+          "id": 13,
+          "question": "Seven Times only",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Pilgrimage to Shrines",
+            "Pilgrimage to Monasteries",
+            "Pilgrimage to Makkah",
+            "Pilgrimage to Iran"
+          ],
+          "correct_answer": "Pilgrimage to Makkah",
+          "month": "null"
+        },
+        {
+          "id": 14,
+          "question": "When praying Witr in the three Rak'a's in the last Rak'ah it is Sunnah to recite? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Every year",
+            "Once in five years",
+            "At least Once in their lifetime",
+            "Once in a decade"
+          ],
+          "correct_answer": "At least Once in their lifetime",
+          "month": "null"
+        },
+        {
+          "id": 15,
+          "question": "What do Muslims recite during and throughout the Hajj? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Al-Fatiha",
+            "Taalbiya",
+            "Declaration of Hajj",
+            "There is no specific recitation"
+          ],
+          "correct_answer": "Taalbiya",
+          "month": "null"
+        }
+      ]
+    },
+    "History": {
+      "Basic Knowladge": [
+        {
+          "id": 1,
+          "question": "What is the name of year when our Beloved Prophet (ﷺ) was born? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "The Year of the Cow (Al-Baqarah)",
+            "The Year of the Ant (An-Naml)",
+            "The Year of the Elephant (Al-Fīl)",
+            "The Year of the Goat (Al-Kharuf)"
+          ],
+          "correct_answer": "The Year of the Elephant (Al-Fīl)",
+          "month": "null"
+        },
+        {
+          "id": 2,
+          "question": "How many Eid Celebrations are there in Islām?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Islāmic New year, Eid Al-Fitr and Adha",
+            "Eid Al-Fitr, Adha, Maulud and Islāmic New year",
+            "Eid of Fitr and Adha",
+            "Parent's Day and Other Day's celebration"
+          ],
+          "correct_answer": "Eid of Fitr and Adha",
+          "month": "null"
+        },
+        {
+          "id": 3,
+          "question": "Who took care of our Holy Prophet after his grandfather Abdul Muttalib passed away?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Hamza",
+            "Abubakar Siddiq",
+            "Khadijah",
+            "Abu Talib"
+          ],
+          "correct_answer": "Abu Talib",
+          "month": "null"
+        },
+        {
+          "id": 4,
+          "question": "How many sons of our Holy Prophet (ﷺ)? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Three",
+            "Six",
+            "Two",
+            "Four"
+          ],
+          "correct_answer": "Three",
+          "month": "null"
+        },
+        {
+          "id": 5,
+          "question": "How many daughters of our Holy Prophet (ﷺ)?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Three",
+            "Six",
+            "Two",
+            "Four"
+          ],
+          "correct_answer": "Four",
+          "month": "null"
+        },
+        {
+          "id": 6,
+          "question": "Which member of our Holy Prophet’s family passed away very soon after him?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Zainab",
+            "Umm Kulthoom",
+            "Fatimah",
+            "Rukayyay"
+          ],
+          "correct_answer": "Zainab",
+          "month": "null"
+        },
+        {
+          "id": 7,
+          "question": "Give the names of his two blessed Grandsons of our Holy Prophet Muhammad (ﷺ)? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Husna and Husain, (رضي الله عنهما)",
+            "Hasan and Husarah, (رضي الله عنهما)",
+            "Hasanat and Husainat, (رضي الله عنهما)",
+            "Hasan and Husain, (رضي الله عنهما)"
+          ],
+          "correct_answer": "Hasan and Husain, (رضي الله عنهما)",
+          "month": "null"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of first Battle of Islam? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Battle of Uhad",
+            "Battle of Ahzāb",
+            "Battle of Qadsiyyah",
+            "Battle of Badr"
+          ],
+          "correct_answer": "Battle of Badr",
+          "month": "null"
+        },
+        {
+          "id": 9,
+          "question": "Which battle gave muslims decisive win in war with byzantine emperor?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Battle of Yarmuk",
+            "Battle of Badr",
+            "Battle of Khaybar",
+            "Battle of Khandak"
+          ],
+          "correct_answer": "Battle of Yarmuk",
+          "month": "null"
+        },
+        {
+          "id": 10,
+          "question": "Who is the first martyr (Shaheed) in Islam? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Hamza (رضي الله عنه)",
+            "Fatimah (رضي الله عنها)",
+            "Sumayyah (رضي الله عنها)",
+            "Yasir (رضي الله عنه)"
+          ],
+          "correct_answer": "Sumayyah (رضي الله عنها)",
+          "month": "null"
+        },
+        {
+          "id": 11,
+          "question": "The Sulhu Al hudeybia was written after which battle?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Battle of Uhud",
+            "Battle of Ahzāb",
+            "Battle of Badr",
+            "Battle of Qadsiyyah"
+          ],
+          "correct_answer": "Battle of Uhud",
+          "month": "null"
+        },
+        {
+          "id": 12,
+          "question": "Who is the first child accepted Islam? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Hassan, Hussain (رضي الله عنهما)",
+            "Ali bin Abi Talib (رضي الله عنه)",
+            "Abdullah bin Abbas (رضي الله عنه)",
+            "Albdullah bin Umar (رضي الله عنه)"
+          ],
+          "correct_answer": "Ali bin Abi Talib (رضي الله عنه)",
+          "month": "null"
+        },
+        {
+          "id": 13,
+          "question": "Who is the first man accepted Islam?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Abu Bakr As-Siddiq(رضي الله عنه)",
+            "Ali Al-Murtaza(رضي الله عنه)",
+            "Uthman bin Affan (رضي الله عنه)",
+            "Umar Al-Farooq(رضي الله عنه)"
+          ],
+          "correct_answer": "Abu Bakr As-Siddiq(رضي الله عنه)",
+          "month": "null"
+        },
+        {
+          "id": 14,
+          "question": "What are the names of the four Khulafa-e-Rashideen (رضي الله عنهم)?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Abdullahi bin Abass, - Umar Al-Faruq, - Uthman, - Ali",
+            "Abu-Bakr As-Siddiq, - Umar Al-Faruq bin Khattab, - Uthman bin Affan, - Ali bin Abi Talib",
+            "Abu-Bakr As-Siddiq, - Umar Al-Faruq, - Amar bin Yaris, - Ali",
+            "Abu-Bakr As-Siddiq, - Umar Al-Faruq, - Usman, - Ali"
+          ],
+          "correct_answer": "Abu-Bakr As-Siddiq, - Umar Al-Faruq bin Khattab, - Uthman bin Affan, - Ali bin Abi Talib",
+          "month": "null"
+        },
+        {
+          "id": 15,
+          "question": "Our beloved Prophet (ﷺ) went on a miraculous night journey to Masjid al-Aqsa and to the Heavens. What is this journey called? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Masabaq",
+            "Isrā’ and Mi’raj",
+            "Hijrah",
+            "Mi’raj"
+          ],
+          "correct_answer": "Isrā’ and Mi’raj",
+          "month": "null"
+        },
+        {
+          "id": 16,
+          "question": "What are the names of the two Khulafa-e-Rashideen (رضي الله عنهم) a whose daughters married to the Prophet Muhammad (ﷺ)?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Abu-Bakr As-Siddiq and Ali bin Abi Talib (رضي الله عنهما)",
+            "Uthman bin Affan and Umar al-Farooq (رضي الله عنهما)",
+            "Abu-Bakr As-Siddiq and Umar al-Farooq (رضي الله عنهما)",
+            "Uthman bin Affan and Ali bin Abi Talib (رضي الله عنهما)"
+          ],
+          "correct_answer": "Uthman bin Affan and Ali bin Abi Talib (رضي الله عنهما)",
+          "month": "null"
+        },
+        {
+          "id": 17,
+          "question": "What gift did he bring back from Allah from the miraculous night journey to the heavens? ",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Al-Qur’ān",
+            "Goodies",
+            "Hadith",
+            "Five times daily salah"
+          ],
+          "correct_answer": "Five times daily salah",
+          "month": "null"
+        },
+        {
+          "id": 18,
+          "question": " Which was the first capital of Islamic State",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Makkah",
+            "Taaif",
+            "Jiddah",
+            "Madina"
+          ],
+          "correct_answer": "Madina",
+          "month": "null"
+        },
+        {
+          "id": 19,
+          "question": "What companion of Prophet Muhammad(ﷺ) was awarded with the title of \"The sword of Allah\"?",
+          "question_type": "multiple-choice",
+          "answers": [
+            "Abu Bakr As-Siddiq(رضي الله عنه)",
+            "Ali Al-Murtaza(رضي الله عنه)",
+            "Khalid bin Waleed(رضي الله عنه)",
+            "Umar Al-Farooq(رضي الله عنه)"
+          ],
+          "correct_answer": "Khalid bin Waleed(رضي الله عنه)",
+          "month": "null"
+        },
+        {
+          "id": 20,
+          "question": "Prophet Muhammad (ﷺ) belonged to _____ family?",
+          "question_type": "fill-in-the-blanks",
+          "answers": [
+            "Quraishi",
+            "Makki",
+            "Hashmi",
+            "Madni"
+          ],
+          "correct_answer": "Hashmi",
           "month": "null"
         }
       ]
